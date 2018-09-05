@@ -6,7 +6,7 @@ The Linux Server Configuration Project is about configuring a Linux server and p
 
 1. IP Address:  54.245.174.21
 2. SSH Port: 2200
-3. Complete URL to hosted web application: http://ec2-54-245-174-21.us-west-2.compute.amazonaws.com
+3. Complete URL to hosted web application: http://ec2-54-245-174-21.us-west-2.compute.amazonaws.com (link will not work while the AWS instance is turned off)
 
 ## Summary of Software Installed
 
