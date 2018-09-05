@@ -1,4 +1,4 @@
-# linux_server_configuration
+# Linux Server Configuration
 
 The Linux Server Configuration Project is about configuring a Linux server and preparing it to host a web application. The server is secured  from a number of attack vectors. A database server is installed and configured , and an existing web application is deployed onto it.
 
